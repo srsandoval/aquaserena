@@ -1,2 +1,0 @@
-# aquaserena
-Proyecto final
