@@ -58,10 +58,10 @@ form {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
-  width: 90%;
+  width: 80%;
 }
 input[type=text], select {
-  width: 50%;
+  width: 90%;
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
@@ -71,7 +71,7 @@ input[type=text], select {
 }
 
 input[type=submit] {
-  width: 50%;
+  width: 90%;
   background-color: #7aa8b7;
   color: white;
   padding: 14px 20px;
@@ -82,7 +82,7 @@ input[type=submit] {
 }
 
 input[type=email] {
-  width: 50%;
+  width: 90%;
   padding:12px 20px;
   margin: 8px 0;
   display: inline-block;
@@ -168,6 +168,10 @@ img {
 .featured {
 	width: 100px;
 	height: 200px;
+}
+
+label{
+	display:block;
 }
 
 
